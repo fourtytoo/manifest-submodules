@@ -7,12 +7,12 @@ of the project's sub-modules.
 
 Use this for user-level plugins:
 
-Put `[manifest-submodules "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your `:user`
+Put `[fourtytoo/manifest-submodules "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your `:user`
 profile.
 
 or use this for project-level plugins:
 
-Put `[manifest-submodules "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your project.clj.
+Put `[fourtytoo/manifest-submodules "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your project.clj.
 
 There is no command line.
 
